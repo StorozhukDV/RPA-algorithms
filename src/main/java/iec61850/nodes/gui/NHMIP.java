@@ -18,12 +18,7 @@ import java.awt.*;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * @author Александр Холодов
- * @created 01.2021
- * @project RPA_MPEI
- * @description Узел для построения графиков (XY)
- */
+
 public class NHMIP extends LN {
 
 	private final HashMap<NHMISignal, XYSeries> datasets = new HashMap<>();
