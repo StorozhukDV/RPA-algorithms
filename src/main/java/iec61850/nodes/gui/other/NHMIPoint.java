@@ -1,11 +1,6 @@
 package iec61850.nodes.gui.other;
 
-/**
- * @author Александр Холодов
- * @created 01.2021
- * @project RPA-MPEI
- * @description Выборка для построения графика ХУ
- */
+
 /** Пара значений X и Y */
 public class NHMIPoint<X, Y> {
     private final X value1;
