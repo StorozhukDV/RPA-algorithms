@@ -9,12 +9,7 @@ import iec61850.nodes.protection.protectionrelatedfunctions.objects.samples.Attr
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Александр Холодов
- * @created 12/2020
- * @project RPA-MPEI
- * @description Пример использования графиков
- */
+
 public class NHMIexample {
 
     /** Все узлы в данной работе */
