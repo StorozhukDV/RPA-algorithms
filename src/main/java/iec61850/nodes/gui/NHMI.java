@@ -19,12 +19,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.stream.Collectors;
 
-/**
- * @author Александр Холодов
- * @created 01.2021
- * @project RPA_MPEI
- * @description Узел для построения графиков (временных последовательностей)
- */
+
 public class NHMI extends LN {
 
 	private final HashMap<XYSeries, Attribute<?>> datasets = new HashMap<>();
