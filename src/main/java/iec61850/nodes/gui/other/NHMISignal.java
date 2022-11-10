@@ -2,12 +2,7 @@ package iec61850.nodes.gui.other;
 
 import iec61850.nodes.protection.protectionrelatedfunctions.objects.samples.Attribute;
 
-/**
- * @author Александр Холодов
- * @created 01.2021
- * @project RPA-MPEI
- * @description Сигнал для построения графиков
- */
+
 public class NHMISignal{
 
     private final String name;
